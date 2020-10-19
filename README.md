@@ -1,1 +1,1 @@
-# tugas3_javascriptPengenalan-master
+# tugas3_javascriptPengenalan
